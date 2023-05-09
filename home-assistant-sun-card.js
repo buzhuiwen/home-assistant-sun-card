@@ -3750,7 +3750,7 @@ _defineProperty(Constants, "LOCALIZATION_LANGUAGES", {
   ru: ru,
   sl: sl,
   sv: sv,
-  zh:zh
+	zh: zh
 });
 
 _defineProperty(Constants, "SUN_RADIUS", 17);
