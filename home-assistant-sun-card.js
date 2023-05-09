@@ -3692,25 +3692,25 @@ var sv = {
 	errors: errors
 };
 
-var Azimuth$d = "方位角";
-var Dawn$d = "黎明";
-var Dusk$d = "黄昏";
-var Elevation$d = "海拔";
-var Noon$d = "中午";
-var Sunrise$d = "日出";
-var Sunset$d = "日落";
-var errors$d = {
+var Azimuth$z = "方位角";
+var Dawn$z = "黎明";
+var Dusk$z = "黄昏";
+var Elevation$z = "海拔";
+var Noon$z = "中午";
+var Sunrise$z = "日出";
+var Sunset$z = "日落";
+var errors$z = {
 	SunIntegrationNotFound: "Sun integration not found"
 };
 var zh = {
-	Azimuth: Azimuth$d,
-	Dawn: Dawn$d,
-	Dusk: Dusk$d,
-	Elevation: Elevation$d,
-	Noon: Noon$d,
-	Sunrise: Sunrise$d,
-	Sunset: Sunset$d,
-	errors: errors$d
+	Azimuth: Azimuth$z,
+	Dawn: Dawn$z,
+	Dusk: Dusk$z,
+	Elevation: Elevation$z,
+	Noon: Noon$z,
+	Sunrise: Sunrise$z,
+	Sunset: Sunset$z,
+	errors: errors$z
 };
 
 var Constants = function Constants() {
